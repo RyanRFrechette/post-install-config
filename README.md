@@ -22,11 +22,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Connect to the osTicket VM remotely using Microsoft Remote Desktop
+- Customize the user roles, permissions, and access levels according to your organization's needs
+- Create departments and teams for efficient ticket management and collaboration among agents
+- Add new agents, assign them to relevant departments and teams, and provide appropriate roles and access permissions
+- Create new help topics for different types of issues that customers may face while using your product/service
 
 <h2>Configuration Steps</h2>
 
