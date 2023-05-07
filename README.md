@@ -29,7 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/zTYBEg1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The given steps describe the process of creating and resolving support tickets using the osTicket platform. Initially, three tickets are created for different issues, including a business critical outage, personal computer issues, and a general inquiry about a hardware refresh. The tickets are created by providing specific user information, help topics, and issue summaries.
+In this project, I demonstrated my ability to effectively manage support tickets using the osTicket platform. I created and resolved various support tickets, coordinated with different teams, and managed agent access settings, showcasing my proficiency in handling helpdesk systems and providing timely resolutions to user issues.
 </p>
 <br />
 
@@ -37,7 +37,7 @@ The given steps describe the process of creating and resolving support tickets u
 <img src="https://i.imgur.com/XjwBvGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, the user logs in as an agent and admin to manage and modify access settings for the agent. This involves selecting the appropriate department and role, such as Support and Supreme Admin, and saving the changes. Afterward, the agent logs in again to address the tickets, updating their priority levels, assigning them to agents, and changing their departments as needed.
+I began by creating three distinct support tickets for various issues: a business critical outage, personal computer problems, and a general inquiry about a hardware refresh. I provided specific user information, help topics, and issue summaries for each ticket, ensuring proper categorization and prioritization.
 </p>
 <br />
 
@@ -45,7 +45,7 @@ Next, the user logs in as an agent and admin to manage and modify access setting
 <img src="https://i.imgur.com/3JD9JSA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-For the business critical outage ticket, the agent coordinates with the System Admin team to resolve the issue. The agent updates the ticket with the steps taken to fix the problem, marking it as resolved and transferring it to the Closed tab. Similarly, for the personal computer issues ticket, the agent assigns the ticket to another agent, who then takes the necessary steps to resolve the issue.
+After creating the tickets, I logged in as an agent and admin to manage and modify access settings. I selected appropriate departments and roles, such as Support and Supreme Admin, and saved the changes. I then logged in as an agent again to address the tickets, updating their priority levels, assigning them to the proper agents, and modifying their departments as needed.
 </p>
 <br />
 
@@ -53,7 +53,7 @@ For the business critical outage ticket, the agent coordinates with the System A
 <img src="https://i.imgur.com/SL7AKHF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the general inquiry ticket, the agent provides information about the hardware refresh, assigns the ticket to themselves, and marks it as resolved. The agent then logs out and logs in as another agent, who reviews the personal computer issues ticket and updates it with an internal note describing the resolution. The agent logs in as an admin to modify access settings for department members.
+To resolve the business critical outage ticket, I coordinated with the System Admin team, updated the ticket with the steps taken to address the issue, and marked it as resolved. For the personal computer issues ticket, I assigned it to another agent, who then took the necessary steps to resolve the problem.
 </p>
 <br />
 
@@ -61,6 +61,12 @@ In the general inquiry ticket, the agent provides information about the hardware
 <img src="https://i.imgur.com/x8u9vRn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Finally, the agent logs in as another user to resolve the personal computer issues ticket, updating the ticket status and posting a reply. The agent then reviews the Closed tab to confirm the ticket's resolution.
+For the general inquiry ticket, I provided information about the hardware refresh, assigned the ticket to myself, and marked it as resolved. I then logged in as another agent to review the personal computer issues ticket and added an internal note describing the resolution. I also logged in as an admin to modify access settings for department members.
+</p>
+<br />
+
+</p>
+<p>
+Lastly, I logged in as another agent to resolve the personal computer issues ticket, updated the ticket status, and posted a reply. I then reviewed the Closed tab to confirm the resolution of all three tickets. This project highlights my ability to efficiently manage and resolve support tickets using a helpdesk platform, ensuring prompt and effective solutions for users.
 </p>
 <br />
