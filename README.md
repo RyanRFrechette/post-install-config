@@ -63,7 +63,6 @@ To resolve the business critical outage ticket, I coordinated with the System Ad
 <p>
 For the general inquiry ticket, I provided information about the hardware refresh, assigned the ticket to myself, and marked it as resolved. I then logged in as another agent to review the personal computer issues ticket and added an internal note describing the resolution. I also logged in as an admin to modify access settings for department members.
 </p>
-<br />
 
 </p>
 <p>
